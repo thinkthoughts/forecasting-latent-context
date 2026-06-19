@@ -1,2 +1,5 @@
 # forecasting-latent-context
-Context demystifies forecasting: notebook experiments on latent state decomposition, physical constraints, and interpretable time-series prediction inspired by Phys-JEPA.
+
+Forecasting improves when constraints shape hidden state rather than only predictions.
+
+Inspired by arXiv:2606.16076 (Phys-JEPA).
